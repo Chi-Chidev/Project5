@@ -1,0 +1,1 @@
+This is my most recent project. It was an assignmentt given to recreate a webpage given to us in class. and make it responsive as possible with just the use of CSS and HTML. It was fun working on this project. Hoping to overcome every challenge i face as it comes by. and i can't wait to learn JavaScript.
